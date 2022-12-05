@@ -1,0 +1,3 @@
+Get mouse input location and put piece in game board
+using pygames event driven options get the position of the mouse vertical
+axis and convert to a row to drop marker

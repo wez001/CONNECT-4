@@ -1,0 +1,9 @@
+removed import time and changed to a pygame function wait for end of game.
+
+Added a player notification that they won and whos turn it is.
+these were done using pygame update display and screen.blit functions
+
+tidy code, making end_game function to seperate large chuncks of code
+and got rid of function to show board in console
+
+

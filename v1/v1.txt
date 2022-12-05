@@ -1,0 +1,3 @@
+beginning of game, couldve used 2d array or list but 
+numpy is easier for now at least for this
+put check for win code in seperate file to keep things tidy

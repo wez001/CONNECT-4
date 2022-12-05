@@ -1,0 +1,4 @@
+here we will put the pices onto the pygame board by colouring the circles to match the gameboard.
+Adding extra loop to see what counters on board are 1 or 2 and change the colours on the pygame board
+Origionaly this would go from top down because of the array, to turn it over we had to say height -
+then it put piece in correct place.

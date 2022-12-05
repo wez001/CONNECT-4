@@ -1,0 +1,3 @@
+in this version i re-wrote the code to make it easier to understand and read.
+i made a class for the game to include all the game variables and the game board.
+to choose one player click on the ONE half of the board and click the TWO  for two player

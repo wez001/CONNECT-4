@@ -1,0 +1,5 @@
+add pygame for graphics
+pygame is relativly easy to make graphics in
+open a window, in this case filling all but one 
+line of window with blue rectangles, then covering with black
+circles.
